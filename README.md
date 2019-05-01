@@ -6,4 +6,4 @@ Give it a name such as 'Move to'. Right click on that folder and press new key. 
 Double click on (Standard) and copy the url-path to where your MoveTo.exe is located. <br>
 After 'MoveTo.exe', write "%1" with the citationmarks. <br>
 The program should now appear on your context menu. <br> <b>
-(C) Casper Juul Lorentzen, CazoDK
+© Casper Juul Lorentzen, CazoDK
